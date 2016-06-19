@@ -1,0 +1,6 @@
+D:\projects\Rebuild Nation\ca1(Rebuild)\ca1(Rebuild)\bin\Debug\ca1(Rebuild).exe.config
+D:\projects\Rebuild Nation\ca1(Rebuild)\ca1(Rebuild)\bin\Debug\ca1(Rebuild).exe
+D:\projects\Rebuild Nation\ca1(Rebuild)\ca1(Rebuild)\bin\Debug\ca1(Rebuild).pdb
+D:\projects\Rebuild Nation\ca1(Rebuild)\ca1(Rebuild)\obj\Debug\ca1(Rebuild).csprojResolveAssemblyReference.cache
+D:\projects\Rebuild Nation\ca1(Rebuild)\ca1(Rebuild)\obj\Debug\ca1(Rebuild).exe
+D:\projects\Rebuild Nation\ca1(Rebuild)\ca1(Rebuild)\obj\Debug\ca1(Rebuild).pdb
